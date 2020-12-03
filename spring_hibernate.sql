@@ -1,1 +1,0 @@
-SELECT * FROM spring_hibernate.user;
